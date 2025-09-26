@@ -4,8 +4,8 @@
 ## 📌 Project Details
 - **Project Name:** Simple Travel Website  
 - **Project Code:** A1_HTML_TravelWebsite  
-- **Course:** Web Development Basics  
-- **Student:** Your Name (KIET ID: 202501100400123)  
+- **Course:** Web Designing  
+- **Student:** Dakshita Singh (KIET UID: 202501100400123)  
 
 ---
 
